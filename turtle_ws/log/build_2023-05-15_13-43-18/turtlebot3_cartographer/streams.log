@@ -1,0 +1,34 @@
+[0.089s] Invoking command in '/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/src/turtlebot3/turtlebot3/turtlebot3_cartographer -DCMAKE_INSTALL_PREFIX=/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer
+[1.216s] -- Found ament_cmake: 1.3.4 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.219s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[1.538s] -- Configuring done
+[1.550s] -- Generating done
+[1.559s] -- Build files have been written to: /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/turtlebot3_cartographer
+[1.573s] Invoked command in '/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/src/turtlebot3/turtlebot3/turtlebot3_cartographer -DCMAKE_INSTALL_PREFIX=/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer
+[1.574s] Invoking command in '/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/turtlebot3_cartographer -- -j12 -l12
+[1.721s] Invoked command in '/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/turtlebot3_cartographer -- -j12 -l12
+[1.987s] Invoking command in '/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/turtlebot3_cartographer
+[2.020s] -- Install configuration: ""
+[2.021s] -- Installing: /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/config
+[2.021s] -- Installing: /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/config/turtlebot3_lds_2d.lua
+[2.021s] -- Installing: /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch
+[2.021s] -- Installing: /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/occupancy_grid.launch.py
+[2.021s] -- Installing: /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/cartographer.launch.py
+[2.021s] -- Installing: /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/rviz
+[2.022s] -- Installing: /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/rviz/tb3_cartographer.rviz
+[2.022s] -- Installing: /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer/share/ament_index/resource_index/package_run_dependencies/turtlebot3_cartographer
+[2.022s] -- Installing: /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer/share/ament_index/resource_index/parent_prefix_path/turtlebot3_cartographer
+[2.022s] -- Installing: /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.sh
+[2.022s] -- Installing: /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.dsv
+[2.022s] -- Installing: /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.sh
+[2.023s] -- Installing: /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.dsv
+[2.024s] -- Installing: /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.bash
+[2.026s] -- Installing: /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.sh
+[2.026s] -- Installing: /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.zsh
+[2.026s] -- Installing: /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.dsv
+[2.027s] -- Installing: /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.dsv
+[2.027s] -- Installing: /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer/share/ament_index/resource_index/packages/turtlebot3_cartographer
+[2.027s] -- Installing: /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig.cmake
+[2.027s] -- Installing: /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig-version.cmake
+[2.028s] -- Installing: /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.xml
+[2.043s] Invoked command in '/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/turtlebot3_cartographer

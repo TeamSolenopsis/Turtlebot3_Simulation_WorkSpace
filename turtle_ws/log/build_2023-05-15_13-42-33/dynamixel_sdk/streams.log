@@ -1,0 +1,33 @@
+[0.084s] Invoking command in '/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/dynamixel_sdk': /usr/bin/cmake /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/src/utils/DynamixelSDK/dynamixel_sdk -DCMAKE_INSTALL_PREFIX=/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/dynamixel_sdk
+[1.116s] -- The C compiler identification is GNU 11.3.0
+[1.118s] -- The CXX compiler identification is GNU 11.3.0
+[1.120s] -- Detecting C compiler ABI info
+[1.122s] -- Detecting C compiler ABI info - done
+[1.123s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.123s] -- Detecting C compile features
+[1.123s] -- Detecting C compile features - done
+[1.124s] -- Detecting CXX compiler ABI info
+[1.124s] -- Detecting CXX compiler ABI info - done
+[1.124s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.125s] -- Detecting CXX compile features
+[1.126s] -- Detecting CXX compile features - done
+[1.227s] [31mCMake Error at CMakeLists.txt:18 (find_package):
+[1.227s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[1.232s]   has asked CMake to find a package configuration file provided by
+[1.234s]   "ament_cmake", but CMake did not find one.
+[1.234s] 
+[1.234s]   Could not find a package configuration file provided by "ament_cmake" with
+[1.235s]   any of the following names:
+[1.235s] 
+[1.235s]     ament_cmakeConfig.cmake
+[1.236s]     ament_cmake-config.cmake
+[1.237s] 
+[1.237s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[1.237s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[1.238s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[1.238s]   has been installed.
+[1.241s] 
+[1.250s] [0m
+[1.250s] -- Configuring incomplete, errors occurred!
+[1.250s] See also "/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/dynamixel_sdk/CMakeFiles/CMakeOutput.log".
+[1.257s] Invoked command in '/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/dynamixel_sdk' returned '1': /usr/bin/cmake /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/src/utils/DynamixelSDK/dynamixel_sdk -DCMAKE_INSTALL_PREFIX=/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/dynamixel_sdk

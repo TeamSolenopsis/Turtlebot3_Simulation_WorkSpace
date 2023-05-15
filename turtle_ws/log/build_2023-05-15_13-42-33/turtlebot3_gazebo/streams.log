@@ -1,0 +1,21 @@
+[0.100s] Invoking command in '/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/turtlebot3_gazebo': /usr/bin/cmake /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/src/turtlebot3/turtlebot3_simulations/turtlebot3_gazebo -DCMAKE_INSTALL_PREFIX=/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_gazebo
+[1.187s] -- Configuring incomplete, errors occurred!
+[1.187s] See also "/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/turtlebot3_gazebo/CMakeFiles/CMakeOutput.log".
+[1.189s] [31mCMake Error at CMakeLists.txt:22 (find_package):
+[1.190s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[1.190s]   has asked CMake to find a package configuration file provided by
+[1.191s]   "ament_cmake", but CMake did not find one.
+[1.193s] 
+[1.193s]   Could not find a package configuration file provided by "ament_cmake" with
+[1.193s]   any of the following names:
+[1.194s] 
+[1.195s]     ament_cmakeConfig.cmake
+[1.196s]     ament_cmake-config.cmake
+[1.197s] 
+[1.198s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[1.199s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[1.199s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[1.199s]   has been installed.
+[1.200s] 
+[1.200s] [0m
+[1.230s] Invoked command in '/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/turtlebot3_gazebo' returned '1': /usr/bin/cmake /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/src/turtlebot3/turtlebot3_simulations/turtlebot3_gazebo -DCMAKE_INSTALL_PREFIX=/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_gazebo

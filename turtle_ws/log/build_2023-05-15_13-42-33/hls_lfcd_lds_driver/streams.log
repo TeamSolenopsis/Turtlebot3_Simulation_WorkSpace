@@ -1,0 +1,33 @@
+[0.085s] Invoking command in '/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/hls_lfcd_lds_driver': /usr/bin/cmake /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/src/utils/hls_lfcd_lds_driver -DCMAKE_INSTALL_PREFIX=/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/hls_lfcd_lds_driver
+[1.124s] -- The C compiler identification is GNU 11.3.0
+[1.126s] -- The CXX compiler identification is GNU 11.3.0
+[1.127s] -- Detecting C compiler ABI info
+[1.128s] -- Detecting C compiler ABI info - done
+[1.129s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.130s] -- Detecting C compile features
+[1.131s] -- Detecting C compile features - done
+[1.132s] -- Detecting CXX compiler ABI info
+[1.134s] -- Detecting CXX compiler ABI info - done
+[1.217s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.217s] -- Detecting CXX compile features
+[1.219s] -- Detecting CXX compile features - done
+[1.250s] [31mCMake Error at CMakeLists.txt:24 (find_package):
+[1.250s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[1.250s]   has asked CMake to find a package configuration file provided by
+[1.251s]   "ament_cmake", but CMake did not find one.
+[1.251s] 
+[1.251s]   Could not find a package configuration file provided by "ament_cmake" with
+[1.251s]   any of the following names:
+[1.251s] 
+[1.251s]     ament_cmakeConfig.cmake
+[1.251s]     ament_cmake-config.cmake
+[1.251s] 
+[1.251s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[1.251s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[1.251s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[1.252s]   has been installed.
+[1.252s] 
+[1.252s] [0m
+[1.252s] -- Configuring incomplete, errors occurred!
+[1.252s] See also "/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/hls_lfcd_lds_driver/CMakeFiles/CMakeOutput.log".
+[1.261s] Invoked command in '/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/hls_lfcd_lds_driver' returned '1': /usr/bin/cmake /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/src/utils/hls_lfcd_lds_driver -DCMAKE_INSTALL_PREFIX=/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/hls_lfcd_lds_driver

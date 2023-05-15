@@ -1,0 +1,23 @@
+[0.929s] Invoking command in '/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/src/turtlebot3/turtlebot3/turtlebot3_teleop': PYTHONPATH=/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/turtlebot3_teleop/prefix_override:/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/turtlebot3_teleop build --build-base /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/turtlebot3_teleop/build install --record /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/turtlebot3_teleop/install.log --single-version-externally-managed
+[1.170s] running egg_info
+[1.171s] writing ../../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/PKG-INFO
+[1.171s] writing dependency_links to ../../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/dependency_links.txt
+[1.171s] writing entry points to ../../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/entry_points.txt
+[1.172s] writing requirements to ../../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/requires.txt
+[1.172s] writing top-level names to ../../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/top_level.txt
+[1.174s] reading manifest file '../../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/SOURCES.txt'
+[1.175s] writing manifest file '../../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info/SOURCES.txt'
+[1.175s] running build
+[1.175s] running build_py
+[1.175s] running install
+[1.175s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.176s]   warnings.warn(
+[1.176s] running install_lib
+[1.178s] running install_data
+[1.179s] running install_egg_info
+[1.180s] removing '/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_teleop/lib/python3.10/site-packages/turtlebot3_teleop-2.1.5-py3.10.egg-info' (and everything under it)
+[1.181s] Copying ../../../../build/turtlebot3_teleop/turtlebot3_teleop.egg-info to /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_teleop/lib/python3.10/site-packages/turtlebot3_teleop-2.1.5-py3.10.egg-info
+[1.182s] running install_scripts
+[1.202s] Installing teleop_keyboard script to /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_teleop/lib/turtlebot3_teleop
+[1.202s] writing list of installed files to '/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/turtlebot3_teleop/install.log'
+[1.323s] Invoked command in '/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/src/turtlebot3/turtlebot3/turtlebot3_teleop' returned '0': PYTHONPATH=/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/turtlebot3_teleop/prefix_override:/home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/install/turtlebot3_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/turtlebot3_teleop build --build-base /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/turtlebot3_teleop/build install --record /home/mart/Documents/git/Turtlebot3_Simulation_WorkSpace/turtle_ws/build/turtlebot3_teleop/install.log --single-version-externally-managed
