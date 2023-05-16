@@ -364,6 +364,3 @@ AMENT_IGNORE
 
 # End of https://www.toptal.com/developers/gitignore/api/ros2,ros,python,c++,cmake,visualstudiocode
 
-turtle_ws/src/turtlebot3
-turtle_ws/src/Cordyceps
-
