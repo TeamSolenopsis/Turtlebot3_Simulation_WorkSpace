@@ -12,6 +12,12 @@ export GAZEBO_MODEL_PATH=$PWD/src/turtlebot3/turtlebot3_simulations/turtlebot3_g
 export TURTLEBOT3_MODEL=waffle
 ```
 
+Import the repos
+```
+cd turtle_ws/src
+vcs import . < turtlebot3.repos 
+```
+
 launch an empty gazebo world
 ```
 ros2 launch turtlebot3_gazebo empty_world.launch.py
